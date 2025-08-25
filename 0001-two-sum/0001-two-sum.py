@@ -10,5 +10,8 @@ class Solution:
                 d[num] = i
 
 
+# Time complexity = O(n)
+# Space complexity = O(n)
+
 
         
