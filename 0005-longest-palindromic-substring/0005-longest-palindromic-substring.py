@@ -20,6 +20,6 @@ class Solution:
         return longestSubstring
 
 # Time = O(n**2)
-# Space = O(n)
+# Space = O(1)
 
         
