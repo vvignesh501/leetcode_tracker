@@ -12,8 +12,7 @@ class Solution:
                 r += 1
                 maxTotal = max(maxTotal, len(substring))  # move maxTotal update here
             else:
-                while s[l] in substring:
-                    substring.remove(s[l])
-                    l += 1
+                substring.remove(s[l])
+                l += 1
         
         return maxTotal
