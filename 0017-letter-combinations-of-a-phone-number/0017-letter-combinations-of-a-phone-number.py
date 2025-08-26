@@ -4,7 +4,7 @@ class Solution:
         if not digits:
             return []
 
-        digit_to_letters = {
+        phone_map = {
             '2': 'abc',
             '3': 'def',
             '4': 'ghi',
@@ -16,19 +16,21 @@ class Solution:
         }
 
         result = []
-        def backtracking(idx, comb):
-            
-            if idx == len(digits):
-                result.append(comb[:])
+        def backtracking(index, path):
+            if index == len(digits):
+                result.append("".join(path))
                 return
-
-            for letter in digit_to_letters[digits[idx]]:
-                backtracking(idx + 1, comb + letter)
+            
+            for char in phone_map[digits[index]]:
+                path.append(char)
+                backtracking(index + 1, path)
+                path.pop()  # undo choice
 
         
-        backtracking(0, "")        
+        backtracking(0, [])        
         return result
 
 
-
+# Time - O(4ⁿ · n)
+# Space - O(n + 4ⁿ)
         
