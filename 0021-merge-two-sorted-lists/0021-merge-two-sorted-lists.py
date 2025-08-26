@@ -32,7 +32,7 @@ class Solution:
         
         return dummy.next
 
-# Time = O(n)
+# Time = O(m + n) or O(n) i.e m = list1 n = list2
 # Space = why O(1) instead of O(n)
 # No new nodes are created.
 # You just relink existing nodes.
