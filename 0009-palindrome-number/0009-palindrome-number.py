@@ -17,4 +17,5 @@ class Solution:
         # return true if reversed and x are same which is palindrome
         return reversed_num == original
 
-        
+       # Time = O(logn)
+       # Space = O(1) 
