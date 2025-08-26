@@ -8,6 +8,8 @@ class Solution:
         
         temp = head
         total = 0
+
+        # Pass 1
         while temp:
             temp = temp.next
             total += 1
@@ -17,6 +19,7 @@ class Solution:
 
         # Move the node until one node before 3 in [1, 2, 3, 4, 5]
         prev = head
+        # Pass 2
         for i in range(total - n - 1):
             prev = prev.next
         
@@ -24,4 +27,5 @@ class Solution:
         prev.next = prev.next.next
         return head
 
-        
+# Time = O(2N) - pass 2 times
+# Space = O(1)
