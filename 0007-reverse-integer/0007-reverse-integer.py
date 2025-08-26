@@ -13,4 +13,7 @@ class Solution:
 
         return reverse if x > 0 else -reverse
 
+# Time = O(logn) - because the number gets shrunk everytime.
+# Space = O(1)
+
         
