@@ -18,4 +18,5 @@ class Solution:
         
         return p
 
-    
+# Time = O(n * m)
+# Space = O(1)
