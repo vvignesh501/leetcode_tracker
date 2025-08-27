@@ -32,4 +32,6 @@ class Solution:
                     return False
         return True
 
-                
+
+# Time = O(n**2)
+# space = O(n**2)
