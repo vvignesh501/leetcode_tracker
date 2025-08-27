@@ -13,5 +13,8 @@ class Solution:
                 longest = max(longest, length)
         return longest
     
+
+# Time = O(n)
+# Space = O(n) it is numSet not longest for space complexity 
             
         
