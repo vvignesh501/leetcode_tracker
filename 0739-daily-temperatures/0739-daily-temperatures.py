@@ -13,5 +13,6 @@ class Solution:
 
         return result
 
-
+# time = O(n)
+# space = O(n)
         
