@@ -18,3 +18,6 @@ class Solution:
                 l = k + 1
         
         return res
+
+# O(logn.p)
+# O(1)
