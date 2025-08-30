@@ -14,7 +14,6 @@ class TimeMap:
         res = ""
         values = self.store.get(key, [])
         l, r = 0, len(values) - 1
-        
         while l <= r:
             mid = (l + r) // 2
             if values[mid][1] <= timestamp:
