@@ -24,7 +24,8 @@ class TimeMap:
         return res
     
                 
-
+# Time = get - O(logn) set = O(1)
+# Space = O(n)
         
 
 
