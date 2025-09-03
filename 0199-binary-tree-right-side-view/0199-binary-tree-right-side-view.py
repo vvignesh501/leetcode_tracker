@@ -19,3 +19,8 @@ class Solution:
                 if i == level_size - 1:
                     res.append(node.val)
         return res
+
+
+# Time: O(n) → visit every node once.
+
+# Space: O(h) → recursion stack in DFS, or queue in BFS (h = height of tree).
