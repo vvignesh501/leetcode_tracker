@@ -104,16 +104,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/vvignesh501/leetcode_tracker/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/vvignesh501/leetcode_tracker/tree/master/0131-palindrome-partitioning) |
 | [1023-time-based-key-value-store](https://github.com/vvignesh501/leetcode_tracker/tree/master/1023-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vvignesh501/leetcode_tracker/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/vvignesh501/leetcode_tracker/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vvignesh501/leetcode_tracker/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/vvignesh501/leetcode_tracker/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Stack
 |  |
 | ------- |
