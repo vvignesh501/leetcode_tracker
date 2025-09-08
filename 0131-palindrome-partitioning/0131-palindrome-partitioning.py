@@ -1,33 +1,25 @@
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
+        result = []
 
+        def is_palindrome(sub):
+            return sub == sub[::-1]
 
-        # https://www.youtube.com/watch?v=3jvWodd7ht0
-        # Trick - for loop - left to right each node
-        # dfs fn - top to bottom. For left to right node, perform dfs()
-        
-        res = []
-        part = []
-        def dfs(i):
-            if i >= len(s):
-                res.append(part.copy())
+        def backtrack(start, path):
+            if start == len(s):          # Reached the end
+                result.append(path.copy())
+                return
             
-            # Left to right on each node
-            for j in range(i, len(s)):
-                if isPalin(s, i, j):
-                    part.append(s[i: j + 1])
-                    # Top to bottom dfs
-                    dfs(j + 1)
-                    part.pop()
+            for end in range(start + 1, len(s) + 1):
+                substring = s[start:end]
+                if is_palindrome(substring):
+                    path.append(substring)
+                    backtrack(end, path)  # Recurse for remaining string
+                    path.pop()            # Backtrack
 
-        
-        def isPalin(s, l, r):
-            while l < r:
-                if s[l] != s[r]:
-                    return False
-                l += 1
-                r -= 1
-            return True
-            
-        dfs(0)
-        return res
+        backtrack(0, [])
+        return result
+
+
+# Time - O(n * 2 **n) - 2 **n = 2 choices in dfs
+# Space - O(n)
