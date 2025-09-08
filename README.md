@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vvignesh501/leetcode_tracker/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vvignesh501/leetcode_tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vvignesh501/leetcode_tracker/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vvignesh501/leetcode_tracker/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
 | [1023-time-based-key-value-store](https://github.com/vvignesh501/leetcode_tracker/tree/master/1023-time-based-key-value-store) |
 ## Dynamic Programming
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vvignesh501/leetcode_tracker/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0104-maximum-depth-of-binary-tree) |
