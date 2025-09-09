@@ -27,3 +27,8 @@ class Solution:
         
         # fresh is needed for return -1, else no other way to track fresh 
         return minutes if fresh == 0 else -1
+
+
+# Time: O(m · n) (each cell visited at most once).
+
+# Space: O(m · n) (queue in worst case holds all cells).
