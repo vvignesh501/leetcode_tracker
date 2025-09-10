@@ -22,6 +22,9 @@ class Solution:
                     return False
 
             visited.remove(node)
+            # This makes the node as done which means no cycle detected.
+            # When another path, another DFS is done, this node is clean slate 
+            # saying DFS through this node is non cyclic
             courseMap[node] = []
             return True
 
@@ -31,4 +34,5 @@ class Solution:
         return True
             
 
-        
+# Time = O(V + E)
+# Space = O(V + E)        
