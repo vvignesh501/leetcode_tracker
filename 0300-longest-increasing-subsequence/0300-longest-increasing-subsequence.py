@@ -9,3 +9,6 @@ class Solution:
                     dp[i] = max(dp[i], dp[j] + 1)
         
         return max(dp)
+
+# Time Complexity: O(n²) - Two loops, checking all pairs (j, i).
+# Space Complexity: O(n)
