@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vvignesh501/leetcode_tracker/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0647-palindromic-substrings) |
 | [1023-time-based-key-value-store](https://github.com/vvignesh501/leetcode_tracker/tree/master/1023-time-based-key-value-store) |
+| [1250-longest-common-subsequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vvignesh501/leetcode_tracker/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
