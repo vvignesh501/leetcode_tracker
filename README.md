@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vvignesh501/leetcode_tracker/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vvignesh501/leetcode_tracker/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vvignesh501/leetcode_tracker/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/vvignesh501/leetcode_tracker/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vvignesh501/leetcode_tracker/tree/master/0062-unique-paths) |
@@ -284,5 +286,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
