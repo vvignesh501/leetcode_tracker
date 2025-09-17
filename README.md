@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vvignesh501/leetcode_tracker/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/vvignesh501/leetcode_tracker/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vvignesh501/leetcode_tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/0128-longest-consecutive-sequence) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vvignesh501/leetcode_tracker/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/vvignesh501/leetcode_tracker/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vvignesh501/leetcode_tracker/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/vvignesh501/leetcode_tracker/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/vvignesh501/leetcode_tracker/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/vvignesh501/leetcode_tracker/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0097-interleaving-string) |
