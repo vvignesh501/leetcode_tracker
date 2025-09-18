@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vvignesh501/leetcode_tracker/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/vvignesh501/leetcode_tracker/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0518-coin-change-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/vvignesh501/leetcode_tracker/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/vvignesh501/leetcode_tracker/tree/master/0338-counting-bits) |
 ## Tree
 |  |
 | ------- |
