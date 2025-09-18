@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/vvignesh501/leetcode_tracker/tree/master/0739-daily-temperatures) |
+| [0876-hand-of-straights](https://github.com/vvignesh501/leetcode_tracker/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/vvignesh501/leetcode_tracker/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/vvignesh501/leetcode_tracker/tree/master/1036-rotting-oranges) |
 ## Hash Table
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vvignesh501/leetcode_tracker/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/vvignesh501/leetcode_tracker/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vvignesh501/leetcode_tracker/tree/master/0347-top-k-frequent-elements) |
+| [0876-hand-of-straights](https://github.com/vvignesh501/leetcode_tracker/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/vvignesh501/leetcode_tracker/tree/master/1023-time-based-key-value-store) |
 ## Union Find
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/vvignesh501/leetcode_tracker/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vvignesh501/leetcode_tracker/tree/master/0347-top-k-frequent-elements) |
+| [0876-hand-of-straights](https://github.com/vvignesh501/leetcode_tracker/tree/master/0876-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -290,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/vvignesh501/leetcode_tracker/tree/master/0134-gas-station) |
+| [0876-hand-of-straights](https://github.com/vvignesh501/leetcode_tracker/tree/master/0876-hand-of-straights) |
 <!---LeetCode Topics End-->
