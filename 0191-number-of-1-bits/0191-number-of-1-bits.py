@@ -8,6 +8,6 @@ class Solution:
             n = n >> 1
         return res
 
-# Time - O(n)
+# Time - O(logn)
 # Space - O(1)
         
