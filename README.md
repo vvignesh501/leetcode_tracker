@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vvignesh501/leetcode_tracker/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vvignesh501/leetcode_tracker/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/vvignesh501/leetcode_tracker/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vvignesh501/leetcode_tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/0128-longest-consecutive-sequence) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vvignesh501/leetcode_tracker/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/vvignesh501/leetcode_tracker/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/vvignesh501/leetcode_tracker/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/vvignesh501/leetcode_tracker/tree/master/0141-linked-list-cycle) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/vvignesh501/leetcode_tracker/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/vvignesh501/leetcode_tracker/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vvignesh501/leetcode_tracker/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/vvignesh501/leetcode_tracker/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/vvignesh501/leetcode_tracker/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vvignesh501/leetcode_tracker/tree/master/0200-number-of-islands) |
