@@ -21,3 +21,5 @@ class Solution:
             i += 1
 
         return res
+
+# O(n) time, O(n) space for output list.
