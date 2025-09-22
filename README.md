@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/vvignesh501/leetcode_tracker/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/vvignesh501/leetcode_tracker/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vvignesh501/leetcode_tracker/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vvignesh501/leetcode_tracker/tree/master/0056-merge-intervals) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/vvignesh501/leetcode_tracker/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/vvignesh501/leetcode_tracker/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/vvignesh501/leetcode_tracker/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vvignesh501/leetcode_tracker/tree/master/0200-number-of-islands) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vvignesh501/leetcode_tracker/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/vvignesh501/leetcode_tracker/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/vvignesh501/leetcode_tracker/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vvignesh501/leetcode_tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0268-missing-number) |
