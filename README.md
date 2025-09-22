@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vvignesh501/leetcode_tracker/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/vvignesh501/leetcode_tracker/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vvignesh501/leetcode_tracker/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/vvignesh501/leetcode_tracker/tree/master/0062-unique-paths) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vvignesh501/leetcode_tracker/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/vvignesh501/leetcode_tracker/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/vvignesh501/leetcode_tracker/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
@@ -377,5 +379,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/vvignesh501/leetcode_tracker/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
