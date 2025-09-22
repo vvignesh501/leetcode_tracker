@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/vvignesh501/leetcode_tracker/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/vvignesh501/leetcode_tracker/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vvignesh501/leetcode_tracker/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vvignesh501/leetcode_tracker/tree/master/0347-top-k-frequent-elements) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vvignesh501/leetcode_tracker/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/vvignesh501/leetcode_tracker/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vvignesh501/leetcode_tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0647-palindromic-substrings) |
 ## Binary Search
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vvignesh501/leetcode_tracker/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/vvignesh501/leetcode_tracker/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vvignesh501/leetcode_tracker/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/vvignesh501/leetcode_tracker/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
