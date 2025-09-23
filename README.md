@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/vvignesh501/leetcode_tracker/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/vvignesh501/leetcode_tracker/tree/master/1127-last-stone-weight) |
 | [1962-single-threaded-cpu](https://github.com/vvignesh501/leetcode_tracker/tree/master/1962-single-threaded-cpu) |
+| [2139-detect-squares](https://github.com/vvignesh501/leetcode_tracker/tree/master/2139-detect-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/vvignesh501/leetcode_tracker/tree/master/0876-hand-of-straights) |
 | [1023-time-based-key-value-store](https://github.com/vvignesh501/leetcode_tracker/tree/master/1023-time-based-key-value-store) |
+| [2139-detect-squares](https://github.com/vvignesh501/leetcode_tracker/tree/master/2139-detect-squares) |
 ## Union Find
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vvignesh501/leetcode_tracker/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vvignesh501/leetcode_tracker/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0778-reorganize-string) |
+| [2139-detect-squares](https://github.com/vvignesh501/leetcode_tracker/tree/master/2139-detect-squares) |
 ## Quickselect
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vvignesh501/leetcode_tracker/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vvignesh501/leetcode_tracker/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/vvignesh501/leetcode_tracker/tree/master/1023-time-based-key-value-store) |
+| [2139-detect-squares](https://github.com/vvignesh501/leetcode_tracker/tree/master/2139-detect-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
