@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vvignesh501/leetcode_tracker/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vvignesh501/leetcode_tracker/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/vvignesh501/leetcode_tracker/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/vvignesh501/leetcode_tracker/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0778-reorganize-string) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/vvignesh501/leetcode_tracker/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vvignesh501/leetcode_tracker/tree/master/0139-word-break) |
+| [0424-longest-repeating-character-replacement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/vvignesh501/leetcode_tracker/tree/master/0768-partition-labels) |
@@ -395,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/vvignesh501/leetcode_tracker/tree/master/0054-spiral-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
