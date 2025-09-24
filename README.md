@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/vvignesh501/leetcode_tracker/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/vvignesh501/leetcode_tracker/tree/master/1127-last-stone-weight) |
+| [1706-min-cost-to-connect-all-points](https://github.com/vvignesh501/leetcode_tracker/tree/master/1706-min-cost-to-connect-all-points) |
 | [1962-single-threaded-cpu](https://github.com/vvignesh501/leetcode_tracker/tree/master/1962-single-threaded-cpu) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/vvignesh501/leetcode_tracker/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2139-detect-squares](https://github.com/vvignesh501/leetcode_tracker/tree/master/2139-detect-squares) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vvignesh501/leetcode_tracker/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/vvignesh501/leetcode_tracker/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0695-max-area-of-island) |
+| [1706-min-cost-to-connect-all-points](https://github.com/vvignesh501/leetcode_tracker/tree/master/1706-min-cost-to-connect-all-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/vvignesh501/leetcode_tracker/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/vvignesh501/leetcode_tracker/tree/master/0744-network-delay-time) |
+| [1706-min-cost-to-connect-all-points](https://github.com/vvignesh501/leetcode_tracker/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -409,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/vvignesh501/leetcode_tracker/tree/master/0744-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/vvignesh501/leetcode_tracker/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
