@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vvignesh501/leetcode_tracker/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vvignesh501/leetcode_tracker/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/vvignesh501/leetcode_tracker/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vvignesh501/leetcode_tracker/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/vvignesh501/leetcode_tracker/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/vvignesh501/leetcode_tracker/tree/master/0744-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/vvignesh501/leetcode_tracker/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/vvignesh501/leetcode_tracker/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/vvignesh501/leetcode_tracker/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/vvignesh501/leetcode_tracker/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vvignesh501/leetcode_tracker/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/vvignesh501/leetcode_tracker/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/vvignesh501/leetcode_tracker/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0424-longest-repeating-character-replacement) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/vvignesh501/leetcode_tracker/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
