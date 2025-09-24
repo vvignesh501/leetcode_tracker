@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/vvignesh501/leetcode_tracker/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/vvignesh501/leetcode_tracker/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/vvignesh501/leetcode_tracker/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/vvignesh501/leetcode_tracker/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/vvignesh501/leetcode_tracker/tree/master/1706-min-cost-to-connect-all-points) |
 | [1962-single-threaded-cpu](https://github.com/vvignesh501/leetcode_tracker/tree/master/1962-single-threaded-cpu) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/0300-longest-increasing-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/vvignesh501/leetcode_tracker/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/vvignesh501/leetcode_tracker/tree/master/1023-time-based-key-value-store) |
+| [1046-max-consecutive-ones-iii](https://github.com/vvignesh501/leetcode_tracker/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0424-longest-repeating-character-replacement) |
+| [1046-max-consecutive-ones-iii](https://github.com/vvignesh501/leetcode_tracker/tree/master/1046-max-consecutive-ones-iii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -422,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/vvignesh501/leetcode_tracker/tree/master/1706-min-cost-to-connect-all-points) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/vvignesh501/leetcode_tracker/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
