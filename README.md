@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vvignesh501/leetcode_tracker/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vvignesh501/leetcode_tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vvignesh501/leetcode_tracker/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/vvignesh501/leetcode_tracker/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/vvignesh501/leetcode_tracker/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0097-interleaving-string) |
 | [0131-palindrome-partitioning](https://github.com/vvignesh501/leetcode_tracker/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vvignesh501/leetcode_tracker/tree/master/0139-word-break) |
+| [0402-remove-k-digits](https://github.com/vvignesh501/leetcode_tracker/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0678-valid-parenthesis-string) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/vvignesh501/leetcode_tracker/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/vvignesh501/leetcode_tracker/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/vvignesh501/leetcode_tracker/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/vvignesh501/leetcode_tracker/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/vvignesh501/leetcode_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/vvignesh501/leetcode_tracker/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0678-valid-parenthesis-string) |
