@@ -14,3 +14,6 @@ class Solution:
                     
         return "".join(stack)
 
+# Time: O(n)
+
+# Space: O(1) (bounded by alphabet size, otherwise O(k) where k ≤ n).
