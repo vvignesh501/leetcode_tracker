@@ -22,5 +22,8 @@ class Solution:
         res = "".join(stack).lstrip("0")
         
         return res if res else "0"
+
+# Time - O(n)
+# Space - O(n)
         
         
