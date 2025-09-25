@@ -11,6 +11,9 @@ class Solution:
 
             if total < 0:
                 total = 0
+                # At the last reset (i=2), we set res=3.
+                # Then we finish the loop without resetting again.
+                # So the answer stays at 3 — it doesn’t get bumped to 4.
                 # The first positive value after -ve is the result
                 res = i + 1
         
