@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/vvignesh501/leetcode_tracker/tree/master/1962-single-threaded-cpu) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/vvignesh501/leetcode_tracker/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2139-detect-squares](https://github.com/vvignesh501/leetcode_tracker/tree/master/2139-detect-squares) |
+| [2737-row-with-maximum-ones](https://github.com/vvignesh501/leetcode_tracker/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/vvignesh501/leetcode_tracker/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/vvignesh501/leetcode_tracker/tree/master/1036-rotting-oranges) |
+| [2737-row-with-maximum-ones](https://github.com/vvignesh501/leetcode_tracker/tree/master/2737-row-with-maximum-ones) |
 ## Math
 |  |
 | ------- |
