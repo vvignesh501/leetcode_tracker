@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/vvignesh501/leetcode_tracker/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## String
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/vvignesh501/leetcode_tracker/tree/master/1023-time-based-key-value-store) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/1250-longest-common-subsequence) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
