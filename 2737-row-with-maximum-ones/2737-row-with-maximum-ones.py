@@ -12,4 +12,7 @@ class Solution:
         
         return [row_index, max_count]
 
+# Time - O(n * m)
+# Space - O(1)
+
         
