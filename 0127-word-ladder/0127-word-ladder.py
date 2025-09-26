@@ -16,26 +16,28 @@ class Solution:
                 wildcard_dict[pattern].append(word)
         
         # BFS
-        q = deque([(beginWord, 1)])
+        q = deque([beginWord])
         visited = set([beginWord])
+        steps = 1
         
         while q:
-            word, steps = q.popleft()
+            for _ in range(len(q)):
+                word = q.popleft()
+                for i in range(len(word)):
+                    pattern = word[:i] + '*' + word[i + 1:]
+                    for neighbour in wildcard_dict[pattern]:
+                        
+                        if neighbour == endWord:
+                            return steps + 1
+
+                        if neighbour not in visited:
+                            visited.add(neighbour)
+                            q.append(neighbour)
+            steps += 1
             
-            for i in range(L):
-                pattern = word[:i] + "*" + word[i+1:]
-                
-                for neighbor in wildcard_dict.get(pattern, []):
-                    if neighbor == endWord:
-                        return steps + 1
-                    if neighbor not in visited:
-                        visited.add(neighbor)
-                        q.append((neighbor, steps + 1))
-                
-                # Optional: clear to prevent revisiting
-                wildcard_dict[pattern] = []
-        
         return 0
+
+
 
 # Time: O(N * L)
 # Space O(N*L)
