@@ -12,4 +12,7 @@ class Solution:
             res += (v * (v-1)) // 2
         
         return res
+
+# Time - O(n)
+# Space - O(n)
         
