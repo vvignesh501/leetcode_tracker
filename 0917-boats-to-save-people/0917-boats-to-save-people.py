@@ -13,3 +13,6 @@ class Solution:
             boats += 1
         
         return boats
+
+# Time - O(n)
+# Space - O(1)
