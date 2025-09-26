@@ -14,5 +14,5 @@ class Solution:
         
         return boats
 
-# Time - O(n)
+# Time - O(nlogn)
 # Space - O(1)
