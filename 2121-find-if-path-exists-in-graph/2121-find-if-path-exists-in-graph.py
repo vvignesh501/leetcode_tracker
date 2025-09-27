@@ -22,4 +22,5 @@ class Solution:
         
         return dfs(source)
                 
-        
+# Time - O(n+e)
+# Space - O(n+e)
