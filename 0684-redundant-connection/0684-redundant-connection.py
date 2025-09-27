@@ -1,25 +1,24 @@
+from collections import defaultdict
+
 class Solution:
-    def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
-        n = len(edges)
-        adj = [[] for _ in range(n + 1)]
-
-        def dfs(node, par):
-            if visit[node]:
+    def findRedundantConnection(self, edges: list[list[int]]) -> list[int]:
+        graph = defaultdict(list)
+        
+        def dfs(src, target, visited):
+            if src == target:
                 return True
-
-            visit[node] = True
-            for nei in adj[node]:
-                if nei == par:
-                    continue
-                if dfs(nei, node):
-                    return True
+            visited.add(src)
+            for neighbor in graph[src]:
+                if neighbor not in visited:
+                    if dfs(neighbor, target, visited):
+                        return True
             return False
-
+        
         for u, v in edges:
-            adj[u].append(v)
-            adj[v].append(u)
-            visit = [False] * (n + 1)
-
-            if dfs(u, -1):
+            visited = set()
+            # If there's already a path from u to v, this edge creates a cycle
+            if dfs(u, v, visited):
                 return [u, v]
-        return []
+            # Otherwise, add the edge to the graph
+            graph[u].append(v)
+            graph[v].append(u)
