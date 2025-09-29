@@ -15,3 +15,6 @@ class Solution:
                 elif c + 1 < col:
                     dp[c] = dp[c] + dp[c + 1]
         return dp[0]
+
+# Time - O(n^2)
+# Space - O(n)
