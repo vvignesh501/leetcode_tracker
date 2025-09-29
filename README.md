@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vvignesh501/leetcode_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0518-coin-change-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/vvignesh501/leetcode_tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/vvignesh501/leetcode_tracker/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/vvignesh501/leetcode_tracker/tree/master/0735-asteroid-collision) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vvignesh501/leetcode_tracker/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0424-longest-repeating-character-replacement) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/vvignesh501/leetcode_tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/vvignesh501/leetcode_tracker/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/vvignesh501/leetcode_tracker/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0778-reorganize-string) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/vvignesh501/leetcode_tracker/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0424-longest-repeating-character-replacement) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/vvignesh501/leetcode_tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/vvignesh501/leetcode_tracker/tree/master/0768-partition-labels) |
