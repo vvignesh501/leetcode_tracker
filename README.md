@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/vvignesh501/leetcode_tracker/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/vvignesh501/leetcode_tracker/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vvignesh501/leetcode_tracker/tree/master/0139-word-break) |
+| [0257-binary-tree-paths](https://github.com/vvignesh501/leetcode_tracker/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/vvignesh501/leetcode_tracker/tree/master/0316-remove-duplicate-letters) |
 | [0399-evaluate-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/vvignesh501/leetcode_tracker/tree/master/0402-remove-k-digits) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/vvignesh501/leetcode_tracker/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/vvignesh501/leetcode_tracker/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0494-target-sum) |
 ## Monotonic Stack
 |  |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vvignesh501/leetcode_tracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vvignesh501/leetcode_tracker/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/vvignesh501/leetcode_tracker/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/vvignesh501/leetcode_tracker/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0543-diameter-of-binary-tree) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vvignesh501/leetcode_tracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vvignesh501/leetcode_tracker/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/vvignesh501/leetcode_tracker/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vvignesh501/leetcode_tracker/tree/master/0417-pacific-atlantic-water-flow) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vvignesh501/leetcode_tracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vvignesh501/leetcode_tracker/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/vvignesh501/leetcode_tracker/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/vvignesh501/leetcode_tracker/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0543-diameter-of-binary-tree) |
