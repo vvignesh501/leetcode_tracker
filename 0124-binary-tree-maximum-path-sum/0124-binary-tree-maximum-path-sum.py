@@ -24,4 +24,8 @@ class Solution:
         maxPath(root)
         return self.max_path_sum
 
+# Aspect	Complexity
+# Time	O(n) → visit each node once
+# Space	O(h) → recursion stack (h = tree height)
+
         
