@@ -29,4 +29,6 @@ class Solution:
         treePaths(root, all_nodes)
         return res
         
-        
+# Time: O(n) — visit every node once, each leaf path string costs O(h)
+
+# Space: O(h) recursion stack + O(n·h) for storing paths
