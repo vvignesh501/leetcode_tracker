@@ -8,25 +8,25 @@ class Solution:
     def binaryTreePaths(self, root: Optional[TreeNode]) -> List[str]:
         
         res = []
-        all_nodes = ""
-        def treePaths(root, all_nodes):
+        path = ""
+        def treePaths(root, path):
             if not root:
                 return 
             
             # Build path string
-            if all_nodes:
-                all_nodes += "->" + str(root.val)
+            if path:
+                path += "->" + str(root.val)
             else:
-                all_nodes = str(root.val)
+                path = str(root.val)
 
             if not root.left and not root.right:
-                res.append(all_nodes)
-                all_nodes = ""
+                res.append(path)
+                path = ""
 
-            treePaths(root.left, all_nodes)
-            treePaths(root.right, all_nodes)
+            treePaths(root.left, path)
+            treePaths(root.right, path)
 
-        treePaths(root, all_nodes)
+        treePaths(root, path)
         return res
         
 # Time: O(n) — visit every node once, each leaf path string costs O(h)
