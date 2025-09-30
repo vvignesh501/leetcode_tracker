@@ -15,9 +15,10 @@ class Solution:
             if p.val < root.val and q.val < root.val:
                 return dfs(root.left)
             
-            if p.val > root.val and q.val > root.val:
+            elif p.val > root.val and q.val > root.val:
                 return dfs(root.right)
-            return root
+            else:
+                return root
 
         return dfs(root)
         
