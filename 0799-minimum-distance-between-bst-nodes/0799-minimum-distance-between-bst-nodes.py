@@ -23,3 +23,6 @@ class Solution:
         
         minDiff(root)
         return self.min_diff
+
+# Time - O(n)
+# Space - O(h)
