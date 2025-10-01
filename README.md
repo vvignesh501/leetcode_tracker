@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vvignesh501/leetcode_tracker/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/vvignesh501/leetcode_tracker/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/vvignesh501/leetcode_tracker/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vvignesh501/leetcode_tracker/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vvignesh501/leetcode_tracker/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vvignesh501/leetcode_tracker/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vvignesh501/leetcode_tracker/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/vvignesh501/leetcode_tracker/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/vvignesh501/leetcode_tracker/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0695-max-area-of-island) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/vvignesh501/leetcode_tracker/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vvignesh501/leetcode_tracker/tree/master/0417-pacific-atlantic-water-flow) |
+| [0623-add-one-row-to-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/vvignesh501/leetcode_tracker/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/vvignesh501/leetcode_tracker/tree/master/0744-network-delay-time) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/vvignesh501/leetcode_tracker/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/vvignesh501/leetcode_tracker/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/vvignesh501/leetcode_tracker/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vvignesh501/leetcode_tracker/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vvignesh501/leetcode_tracker/tree/master/0799-minimum-distance-between-bst-nodes) |
