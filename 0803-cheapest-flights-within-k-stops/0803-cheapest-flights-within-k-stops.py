@@ -3,6 +3,7 @@ from typing import List
 
 class Solution:
     def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
+        
         # Build adjacency list
         adj = {i: [] for i in range(n)}
         for u, v, w in flights:
