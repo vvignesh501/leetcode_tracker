@@ -27,3 +27,5 @@ class Solution:
         return -1
 
 
+# Time - O(8⋅n^2)=O(n^2)
+# Space Complexity: O(n²)
