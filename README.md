@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/vvignesh501/leetcode_tracker/tree/master/1325-path-with-maximum-probability) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vvignesh501/leetcode_tracker/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1706-min-cost-to-connect-all-points](https://github.com/vvignesh501/leetcode_tracker/tree/master/1706-min-cost-to-connect-all-points) |
+| [1753-path-with-minimum-effort](https://github.com/vvignesh501/leetcode_tracker/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/vvignesh501/leetcode_tracker/tree/master/1962-single-threaded-cpu) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/vvignesh501/leetcode_tracker/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/vvignesh501/leetcode_tracker/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0854-making-a-large-island) |
 | [1706-min-cost-to-connect-all-points](https://github.com/vvignesh501/leetcode_tracker/tree/master/1706-min-cost-to-connect-all-points) |
+| [1753-path-with-minimum-effort](https://github.com/vvignesh501/leetcode_tracker/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vvignesh501/leetcode_tracker/tree/master/2121-find-if-path-exists-in-graph) |
 ## Two Pointers
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/vvignesh501/leetcode_tracker/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/vvignesh501/leetcode_tracker/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/vvignesh501/leetcode_tracker/tree/master/1046-max-consecutive-ones-iii) |
+| [1753-path-with-minimum-effort](https://github.com/vvignesh501/leetcode_tracker/tree/master/1753-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/vvignesh501/leetcode_tracker/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/vvignesh501/leetcode_tracker/tree/master/1325-path-with-maximum-probability) |
+| [1753-path-with-minimum-effort](https://github.com/vvignesh501/leetcode_tracker/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/vvignesh501/leetcode_tracker/tree/master/1962-single-threaded-cpu) |
 ## Bucket Sort
 |  |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/vvignesh501/leetcode_tracker/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/vvignesh501/leetcode_tracker/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/vvignesh501/leetcode_tracker/tree/master/1753-path-with-minimum-effort) |
 | [2737-row-with-maximum-ones](https://github.com/vvignesh501/leetcode_tracker/tree/master/2737-row-with-maximum-ones) |
 ## Math
 |  |
@@ -399,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/vvignesh501/leetcode_tracker/tree/master/0975-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/vvignesh501/leetcode_tracker/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vvignesh501/leetcode_tracker/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/vvignesh501/leetcode_tracker/tree/master/2439-longest-cycle-in-a-graph) |
 ## Breadth-First Search
@@ -431,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/vvignesh501/leetcode_tracker/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/vvignesh501/leetcode_tracker/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/vvignesh501/leetcode_tracker/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vvignesh501/leetcode_tracker/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/vvignesh501/leetcode_tracker/tree/master/2439-longest-cycle-in-a-graph) |
 ## Binary Tree
