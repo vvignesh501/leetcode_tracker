@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/vvignesh501/leetcode_tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vvignesh501/leetcode_tracker/tree/master/0739-daily-temperatures) |
+| [0794-swim-in-rising-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0794-swim-in-rising-water) |
 | [0833-bus-routes](https://github.com/vvignesh501/leetcode_tracker/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/vvignesh501/leetcode_tracker/tree/master/0876-hand-of-straights) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/vvignesh501/leetcode_tracker/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0854-making-a-large-island) |
 | [1706-min-cost-to-connect-all-points](https://github.com/vvignesh501/leetcode_tracker/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/vvignesh501/leetcode_tracker/tree/master/1753-path-with-minimum-effort) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/0300-longest-increasing-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/vvignesh501/leetcode_tracker/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/vvignesh501/leetcode_tracker/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/vvignesh501/leetcode_tracker/tree/master/1046-max-consecutive-ones-iii) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/vvignesh501/leetcode_tracker/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vvignesh501/leetcode_tracker/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vvignesh501/leetcode_tracker/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/vvignesh501/leetcode_tracker/tree/master/1127-last-stone-weight) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/vvignesh501/leetcode_tracker/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vvignesh501/leetcode_tracker/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/vvignesh501/leetcode_tracker/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/vvignesh501/leetcode_tracker/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -399,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/vvignesh501/leetcode_tracker/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/vvignesh501/leetcode_tracker/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vvignesh501/leetcode_tracker/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vvignesh501/leetcode_tracker/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0854-making-a-large-island) |
@@ -430,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/vvignesh501/leetcode_tracker/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/vvignesh501/leetcode_tracker/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/vvignesh501/leetcode_tracker/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vvignesh501/leetcode_tracker/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0833-bus-routes](https://github.com/vvignesh501/leetcode_tracker/tree/master/0833-bus-routes) |
