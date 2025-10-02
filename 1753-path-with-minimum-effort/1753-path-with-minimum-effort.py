@@ -26,3 +26,6 @@ class Solution:
                         heapq.heappush(queue, (max_diff, newR, newC))
 
         return diff
+
+# Time - O(mnlog(mn))
+# Space - O(mn)
