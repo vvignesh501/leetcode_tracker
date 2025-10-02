@@ -30,3 +30,6 @@ class Solution:
                     heapq.heappush(heap, (-new_prob, nei))
 
         return 0.0
+
+# Time - O(Edges * log Node) - The vertices (or nodes) are heappush or heappop i.e logn
+# Space - O(V + E) because of adjList
