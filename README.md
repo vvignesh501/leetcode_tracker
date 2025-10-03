@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/vvignesh501/leetcode_tracker/tree/master/1753-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vvignesh501/leetcode_tracker/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/vvignesh501/leetcode_tracker/tree/master/2439-longest-cycle-in-a-graph) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/vvignesh501/leetcode_tracker/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/vvignesh501/leetcode_tracker/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/vvignesh501/leetcode_tracker/tree/master/2121-find-if-path-exists-in-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/vvignesh501/leetcode_tracker/tree/master/2439-longest-cycle-in-a-graph) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/vvignesh501/leetcode_tracker/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
