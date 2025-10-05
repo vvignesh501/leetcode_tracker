@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/0300-longest-increasing-subsequence) |
+| [0313-super-ugly-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/vvignesh501/leetcode_tracker/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/vvignesh501/leetcode_tracker/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0399-evaluate-division) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vvignesh501/leetcode_tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0268-missing-number) |
+| [0313-super-ugly-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0313-super-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/vvignesh501/leetcode_tracker/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/vvignesh501/leetcode_tracker/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/vvignesh501/leetcode_tracker/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/0300-longest-increasing-subsequence) |
+| [0313-super-ugly-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/vvignesh501/leetcode_tracker/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/vvignesh501/leetcode_tracker/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0416-partition-equal-subset-sum) |
