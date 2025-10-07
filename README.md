@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vvignesh501/leetcode_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0518-coin-change-ii) |
+| [0553-optimal-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0553-optimal-division) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vvignesh501/leetcode_tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/vvignesh501/leetcode_tracker/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0695-max-area-of-island) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/vvignesh501/leetcode_tracker/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/vvignesh501/leetcode_tracker/tree/master/0371-sum-of-two-integers) |
+| [0553-optimal-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0553-optimal-division) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/vvignesh501/leetcode_tracker/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Stack
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vvignesh501/leetcode_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0518-coin-change-ii) |
+| [0553-optimal-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0553-optimal-division) |
 | [0647-palindromic-substrings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vvignesh501/leetcode_tracker/tree/master/0803-cheapest-flights-within-k-stops) |
