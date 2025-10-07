@@ -16,3 +16,6 @@ class Solution:
             return count
         
         return backtracking(1, res)
+
+# Time - O(n!)
+# Space - O(n)
