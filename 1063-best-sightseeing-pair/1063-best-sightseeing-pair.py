@@ -8,3 +8,6 @@ class Solution:
             best_left = max(best_left, values[j] + j)  # update for next j
 
         return best_score
+
+# Time - O(n)
+# Space - O(1)
