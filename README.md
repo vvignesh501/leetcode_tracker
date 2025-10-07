@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/vvignesh501/leetcode_tracker/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/vvignesh501/leetcode_tracker/tree/master/0907-koko-eating-bananas) |
+| [0909-stone-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0909-stone-game) |
 | [0917-boats-to-save-people](https://github.com/vvignesh501/leetcode_tracker/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/vvignesh501/leetcode_tracker/tree/master/1036-rotting-oranges) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/vvignesh501/leetcode_tracker/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/vvignesh501/leetcode_tracker/tree/master/0371-sum-of-two-integers) |
 | [0553-optimal-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0553-optimal-division) |
+| [0909-stone-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/vvignesh501/leetcode_tracker/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Stack
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vvignesh501/leetcode_tracker/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0909-stone-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0909-stone-game) |
 | [1063-best-sightseeing-pair](https://github.com/vvignesh501/leetcode_tracker/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
@@ -602,4 +605,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0526-beautiful-arrangement) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
