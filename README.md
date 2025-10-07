@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vvignesh501/leetcode_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0553-optimal-division) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vvignesh501/leetcode_tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/vvignesh501/leetcode_tracker/tree/master/0621-task-scheduler) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/vvignesh501/leetcode_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0553-optimal-division) |
 | [0647-palindromic-substrings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0678-valid-parenthesis-string) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/vvignesh501/leetcode_tracker/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/vvignesh501/leetcode_tracker/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0526-beautiful-arrangement) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/vvignesh501/leetcode_tracker/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/vvignesh501/leetcode_tracker/tree/master/0371-sum-of-two-integers) |
+| [0526-beautiful-arrangement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0526-beautiful-arrangement) |
 ## Tree
 |  |
 | ------- |
@@ -594,4 +598,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/vvignesh501/leetcode_tracker/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
