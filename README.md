@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0313-super-ugly-number) |
+| [0343-integer-break](https://github.com/vvignesh501/leetcode_tracker/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/vvignesh501/leetcode_tracker/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/vvignesh501/leetcode_tracker/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/vvignesh501/leetcode_tracker/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/vvignesh501/leetcode_tracker/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/vvignesh501/leetcode_tracker/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vvignesh501/leetcode_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0494-target-sum) |
