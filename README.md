@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/vvignesh501/leetcode_tracker/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/vvignesh501/leetcode_tracker/tree/master/0048-rotate-image) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/vvignesh501/leetcode_tracker/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/vvignesh501/leetcode_tracker/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/vvignesh501/leetcode_tracker/tree/master/0127-word-ladder) |
