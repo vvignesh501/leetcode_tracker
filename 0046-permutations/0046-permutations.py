@@ -20,3 +20,7 @@ class Solution:
                     
         backtrack()
         return perms
+
+# Metric	Complexity
+# Time	O(n!) — all permutations
+# Space	O(n) recursion stack
