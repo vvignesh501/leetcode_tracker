@@ -1,9 +1,6 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         
-        # The trick is remembering the visited node everytime dfs is called
-        # Once you backtrack and remove the res, remove the visited too.
-
         perms=[]
         solution=[]
 
