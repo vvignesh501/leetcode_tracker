@@ -9,3 +9,6 @@ class Solution:
         numerator = str(nums[0])
         denominator = '/'.join(map(str, nums[1:]))
         return f"{numerator}/({denominator})"
+
+# Time - O(n)
+# Space - O(n)
