@@ -14,3 +14,6 @@ class Solution:
                     )
 
         return dp[0][n - 1]
+
+# Time - O(n^3)
+# Space - O(n^2)
