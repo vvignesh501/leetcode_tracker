@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/vvignesh501/leetcode_tracker/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0045-jump-game-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vvignesh501/leetcode_tracker/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/vvignesh501/leetcode_tracker/tree/master/0141-linked-list-cycle) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/vvignesh501/leetcode_tracker/tree/master/0134-gas-station) |
