@@ -17,3 +17,7 @@ class Solution:
                 dfs(i)
         
         return provinces
+
+
+# Time - O(N²) → because we check the adjacency matrix.
+# Space - O(N) space → recursion/visited tracking.
