@@ -1,23 +1,22 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
+
         n = len(isConnected)
+        count = 0
         visited = set()
 
-        def dfs(city):
-            for nei in range(n):
-                if isConnected[city][nei] == 1 and nei not in visited:
-                    visited.add(nei)
-                    dfs(nei)
+        def dfs(i):
+            for node, edges in enumerate(isConnected[i]):
 
-        provinces = 0
+                # Perform dfs only if the value == 1 and not visited.
+                if edges == 1 and node not in visited:
+                    visited.add(node)
+                    dfs(node)
+
+
         for i in range(n):
             if i not in visited:
-                provinces += 1
-                visited.add(i)
+                count += 1
                 dfs(i)
         
-        return provinces
-
-
-# Time - O(N²) → because we check the adjacency matrix.
-# Space - O(N) space → recursion/visited tracking.
+        return count
