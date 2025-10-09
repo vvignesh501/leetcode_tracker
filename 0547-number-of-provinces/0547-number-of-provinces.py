@@ -1,22 +1,19 @@
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-
         n = len(isConnected)
-        count = 0
         visited = set()
 
-        def dfs(i):
-            for node, edges in enumerate(isConnected[i]):
+        def dfs(city):
+            for nei in range(n):
+                if isConnected[city][nei] == 1 and nei not in visited:
+                    visited.add(nei)
+                    dfs(nei)
 
-                # Perform dfs only if the value == 1 and not visited.
-                if edges == 1 and node not in visited:
-                    visited.add(node)
-                    dfs(node)
-
-
+        provinces = 0
         for i in range(n):
             if i not in visited:
-                count += 1
+                provinces += 1
+                visited.add(i)
                 dfs(i)
         
-        return count
+        return provinces
