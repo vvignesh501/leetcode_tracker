@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/vvignesh501/leetcode_tracker/tree/master/1962-single-threaded-cpu) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/vvignesh501/leetcode_tracker/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2035-count-sub-islands](https://github.com/vvignesh501/leetcode_tracker/tree/master/2035-count-sub-islands) |
+| [2102-find-the-middle-index-in-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2102-find-the-middle-index-in-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/vvignesh501/leetcode_tracker/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2139-detect-squares](https://github.com/vvignesh501/leetcode_tracker/tree/master/2139-detect-squares) |
 | [2737-row-with-maximum-ones](https://github.com/vvignesh501/leetcode_tracker/tree/master/2737-row-with-maximum-ones) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/vvignesh501/leetcode_tracker/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vvignesh501/leetcode_tracker/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2102-find-the-middle-index-in-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2102-find-the-middle-index-in-array) |
 ## Number Theory
 |  |
 | ------- |
