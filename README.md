@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2102-find-the-middle-index-in-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/vvignesh501/leetcode_tracker/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2139-detect-squares](https://github.com/vvignesh501/leetcode_tracker/tree/master/2139-detect-squares) |
+| [2358-number-of-ways-to-split-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2358-number-of-ways-to-split-array) |
 | [2737-row-with-maximum-ones](https://github.com/vvignesh501/leetcode_tracker/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/vvignesh501/leetcode_tracker/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vvignesh501/leetcode_tracker/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2102-find-the-middle-index-in-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2102-find-the-middle-index-in-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2358-number-of-ways-to-split-array) |
 ## Number Theory
 |  |
 | ------- |
