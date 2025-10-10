@@ -6,6 +6,7 @@ class Solution:
         visited = set()
 
         def dfs(i):
+            # This is enumerate. Node - index, edges = [1,1,0]
             for node, edges in enumerate(isConnected[i]):
 
                 # Perform dfs only if the value == 1 and not visited.
