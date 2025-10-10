@@ -24,3 +24,12 @@ class Solution:
                     count += 1
 
         return count
+
+
+# Time Complexity
+
+# O(m × n) → every cell visited once.
+
+# \U0001f4be Space Complexity
+
+# O(m × n) recursion (DFS stack in worst case).
