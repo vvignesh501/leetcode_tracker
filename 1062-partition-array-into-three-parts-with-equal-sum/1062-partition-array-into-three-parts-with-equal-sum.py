@@ -20,3 +20,6 @@ class Solution:
                 return True
         
         return False
+
+# Time - O(n)
+# Space - O(1)
