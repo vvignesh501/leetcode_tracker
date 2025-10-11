@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2358-number-of-ways-to-split-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vvignesh501/leetcode_tracker/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/vvignesh501/leetcode_tracker/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2737-row-with-maximum-ones](https://github.com/vvignesh501/leetcode_tracker/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/vvignesh501/leetcode_tracker/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/vvignesh501/leetcode_tracker/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/vvignesh501/leetcode_tracker/tree/master/0917-boats-to-save-people) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/vvignesh501/leetcode_tracker/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Binary Search
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/vvignesh501/leetcode_tracker/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/vvignesh501/leetcode_tracker/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/vvignesh501/leetcode_tracker/tree/master/1962-single-threaded-cpu) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/vvignesh501/leetcode_tracker/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vvignesh501/leetcode_tracker/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/vvignesh501/leetcode_tracker/tree/master/0735-asteroid-collision) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/vvignesh501/leetcode_tracker/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Sliding Window
 |  |
 | ------- |
