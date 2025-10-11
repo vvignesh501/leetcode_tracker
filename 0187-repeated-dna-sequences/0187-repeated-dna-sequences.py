@@ -13,3 +13,6 @@ class Solution:
             if v > 1:
                 res.append(k)
         return res
+
+# Time - O(n)
+# Space - O(n)
