@@ -5,13 +5,9 @@ class Solution:
         dna = {}
         res = []
 
-        for i in range(len(s)-k + 1):
+        for i in range(len(s)- k + 1):
             substring = s[i:i + k]
-
-            if substring not in dna:
-                dna[substring] = 1
-            else:
-                dna[substring] += 1
+            dna[substring] = 1 + dna.get(substring, 0)
         
         for k, v in dna.items():
             if v > 1:
