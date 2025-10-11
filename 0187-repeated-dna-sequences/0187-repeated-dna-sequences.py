@@ -17,6 +17,7 @@ class Solution:
 # # Time - O(n)
 # # Space - O(n)
 
+# Clean code - use set instead of dictionary
         k = 10
         repeated = set()
         seen = set()
