@@ -33,3 +33,7 @@ class Solution:
                     r -= 1
         
         return total
+
+
+# Time	O(k log candidates)	Each hire pops + pushes 1 item (log c) from a heap of ≤ candidates
+# Space	O(candidates)	Two heaps of size ≤ candidates each
