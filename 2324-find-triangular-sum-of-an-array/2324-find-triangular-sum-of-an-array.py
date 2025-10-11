@@ -9,3 +9,7 @@ class Solution:
             newNums = []
         
         return nums[0]
+
+# Time - O(n^2) using while and for
+# Space - Each round creates a new list → O(n)
+# Can be reduced to O(1) if done in-place (modifying nums directly).
