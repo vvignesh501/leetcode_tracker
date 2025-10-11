@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2102-find-the-middle-index-in-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/vvignesh501/leetcode_tracker/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2139-detect-squares](https://github.com/vvignesh501/leetcode_tracker/tree/master/2139-detect-squares) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2358-number-of-ways-to-split-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vvignesh501/leetcode_tracker/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2737-row-with-maximum-ones](https://github.com/vvignesh501/leetcode_tracker/tree/master/2737-row-with-maximum-ones) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/vvignesh501/leetcode_tracker/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vvignesh501/leetcode_tracker/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/vvignesh501/leetcode_tracker/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/vvignesh501/leetcode_tracker/tree/master/0735-asteroid-collision) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Sliding Window
 |  |
 | ------- |
