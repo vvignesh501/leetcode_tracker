@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/vvignesh501/leetcode_tracker/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/vvignesh501/leetcode_tracker/tree/master/1753-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/vvignesh501/leetcode_tracker/tree/master/1962-single-threaded-cpu) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/vvignesh501/leetcode_tracker/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/vvignesh501/leetcode_tracker/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2035-count-sub-islands](https://github.com/vvignesh501/leetcode_tracker/tree/master/2035-count-sub-islands) |
 | [2102-find-the-middle-index-in-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2102-find-the-middle-index-in-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/vvignesh501/leetcode_tracker/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/vvignesh501/leetcode_tracker/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/vvignesh501/leetcode_tracker/tree/master/1753-path-with-minimum-effort) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/vvignesh501/leetcode_tracker/tree/master/2000-minimum-speed-to-arrive-on-time) |
 ## Divide and Conquer
 |  |
 | ------- |
