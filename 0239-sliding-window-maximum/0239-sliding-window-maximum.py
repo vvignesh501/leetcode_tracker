@@ -12,7 +12,8 @@ class Solution:
 
             queue.append(r)
 
-            # Pop only when left = queue[0]
+            # Pop when the max element is at the left of the queue. 
+            # Eg - [3, -1, -3] remove 3. Next window slide becomes [-1, -3, 5] or whatever
             if r - l + 1 > k:
                 if queue and queue[0] == l:
                     queue.popleft()
@@ -23,4 +24,6 @@ class Solution:
                 res.append(nums[queue[0]])
         
         return res
+
+#
         
