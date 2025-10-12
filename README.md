@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vvignesh501/leetcode_tracker/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/vvignesh501/leetcode_tracker/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/vvignesh501/leetcode_tracker/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/0300-longest-increasing-subsequence) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/vvignesh501/leetcode_tracker/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vvignesh501/leetcode_tracker/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/vvignesh501/leetcode_tracker/tree/master/0744-network-delay-time) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vvignesh501/leetcode_tracker/tree/master/0187-repeated-dna-sequences) |
+| [0239-sliding-window-maximum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/vvignesh501/leetcode_tracker/tree/master/1046-max-consecutive-ones-iii) |
@@ -673,4 +676,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vvignesh501/leetcode_tracker/tree/master/0187-repeated-dna-sequences) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
