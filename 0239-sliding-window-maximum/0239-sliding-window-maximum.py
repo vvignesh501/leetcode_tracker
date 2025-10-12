@@ -1,23 +1,25 @@
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
 
+        l = 0
         queue = deque()
         res = []
 
-        for i in range(len(nums)):
+        for r in range(len(nums)):
 
-            while queue and nums[queue[-1]] < nums[i]:
+            while queue and nums[queue[-1]] < nums[r]:
                 queue.pop()
 
-            queue.append(i)
+            queue.append(r)
 
-            # Remove the index in queue, if index is behind the k value.
-            # i.e the sliding window went past the k=3. (i = 3, k =3) (i-k = 0th index)
-            if queue[0] <= i - k:
-                queue.popleft()
+            # Pop only when left = queue[0]
+            if r - l + 1 > k:
+                if queue and queue[0] == l:
+                    queue.popleft()
+                l += 1
 
-            # Append max when window size is reached
-            if i >= k - 1:
+            # Append max when window size 3 is reached
+            if r - l + 1 == k:
                 res.append(nums[queue[0]])
         
         return res
