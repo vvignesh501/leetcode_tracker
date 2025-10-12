@@ -13,3 +13,6 @@ class Solution:
                 l += 1
             out += r - l + 1
         return out
+
+# Time - O(n)
+# Space - O(1)
