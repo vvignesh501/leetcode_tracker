@@ -30,4 +30,6 @@ class Solution:
                  left = mid + 1
         return left
 
+# Time - O(n log(sum(weights)))
+# Space - O(1)
         
