@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/vvignesh501/leetcode_tracker/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Stack
 |  |
 | ------- |
