@@ -22,4 +22,11 @@ class Solution:
                 r = mid - 1
         
         return res
-        
+
+# Time: O(n * log(maxSpeed))
+
+# n = len(dist)
+
+# maxSpeed = 10^7 → about 24 binary search steps
+
+# Space: O(1) (just uses counters)
