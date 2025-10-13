@@ -12,7 +12,8 @@ class Solution:
                     total += w
                 else:
                     curr_day += 1       # start new day
-                    total = w           # start new day with current package
+                    total = w           # start new day with current package. 
+                    # [1,2,3,4,5] is over. Start total with total = [6,..and so on]
                     if curr_day > days:
                         return False
             return True
