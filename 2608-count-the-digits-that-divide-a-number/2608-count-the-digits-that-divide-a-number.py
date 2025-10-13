@@ -13,4 +13,7 @@ class Solution:
             temp //= 10
         
         return count
+
+# Time - O(d) - d is the no of digits in num
+# Space - O(1)
         
