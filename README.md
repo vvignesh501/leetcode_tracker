@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/vvignesh501/leetcode_tracker/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vvignesh501/leetcode_tracker/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/vvignesh501/leetcode_tracker/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/vvignesh501/leetcode_tracker/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/vvignesh501/leetcode_tracker/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vvignesh501/leetcode_tracker/tree/master/0054-spiral-matrix) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/vvignesh501/leetcode_tracker/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/vvignesh501/leetcode_tracker/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/vvignesh501/leetcode_tracker/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/vvignesh501/leetcode_tracker/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/0128-longest-consecutive-sequence) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vvignesh501/leetcode_tracker/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vvignesh501/leetcode_tracker/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vvignesh501/leetcode_tracker/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/0215-kth-largest-element-in-an-array) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/vvignesh501/leetcode_tracker/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/vvignesh501/leetcode_tracker/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/vvignesh501/leetcode_tracker/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/vvignesh501/leetcode_tracker/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
