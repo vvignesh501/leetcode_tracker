@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/vvignesh501/leetcode_tracker/tree/master/1063-best-sightseeing-pair) |
 | [1094-matrix-cells-in-distance-order](https://github.com/vvignesh501/leetcode_tracker/tree/master/1094-matrix-cells-in-distance-order) |
+| [1115-valid-boomerang](https://github.com/vvignesh501/leetcode_tracker/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/vvignesh501/leetcode_tracker/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/vvignesh501/leetcode_tracker/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1325-path-with-maximum-probability](https://github.com/vvignesh501/leetcode_tracker/tree/master/1325-path-with-maximum-probability) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/vvignesh501/leetcode_tracker/tree/master/1094-matrix-cells-in-distance-order) |
+| [1115-valid-boomerang](https://github.com/vvignesh501/leetcode_tracker/tree/master/1115-valid-boomerang) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/vvignesh501/leetcode_tracker/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
 | [1094-matrix-cells-in-distance-order](https://github.com/vvignesh501/leetcode_tracker/tree/master/1094-matrix-cells-in-distance-order) |
+| [1115-valid-boomerang](https://github.com/vvignesh501/leetcode_tracker/tree/master/1115-valid-boomerang) |
 ## Simulation
 |  |
 | ------- |
