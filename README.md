@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vvignesh501/leetcode_tracker/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/vvignesh501/leetcode_tracker/tree/master/1063-best-sightseeing-pair) |
+| [1094-matrix-cells-in-distance-order](https://github.com/vvignesh501/leetcode_tracker/tree/master/1094-matrix-cells-in-distance-order) |
 | [1127-last-stone-weight](https://github.com/vvignesh501/leetcode_tracker/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/vvignesh501/leetcode_tracker/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1325-path-with-maximum-probability](https://github.com/vvignesh501/leetcode_tracker/tree/master/1325-path-with-maximum-probability) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/vvignesh501/leetcode_tracker/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/vvignesh501/leetcode_tracker/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
+| [1094-matrix-cells-in-distance-order](https://github.com/vvignesh501/leetcode_tracker/tree/master/1094-matrix-cells-in-distance-order) |
 | [1962-single-threaded-cpu](https://github.com/vvignesh501/leetcode_tracker/tree/master/1962-single-threaded-cpu) |
 ## Heap (Priority Queue)
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/vvignesh501/leetcode_tracker/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/vvignesh501/leetcode_tracker/tree/master/1036-rotting-oranges) |
+| [1094-matrix-cells-in-distance-order](https://github.com/vvignesh501/leetcode_tracker/tree/master/1094-matrix-cells-in-distance-order) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/vvignesh501/leetcode_tracker/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/vvignesh501/leetcode_tracker/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/vvignesh501/leetcode_tracker/tree/master/2035-count-sub-islands) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0553-optimal-division) |
 | [0909-stone-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
+| [1094-matrix-cells-in-distance-order](https://github.com/vvignesh501/leetcode_tracker/tree/master/1094-matrix-cells-in-distance-order) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/vvignesh501/leetcode_tracker/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -640,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
+| [1094-matrix-cells-in-distance-order](https://github.com/vvignesh501/leetcode_tracker/tree/master/1094-matrix-cells-in-distance-order) |
 ## Simulation
 |  |
 | ------- |
