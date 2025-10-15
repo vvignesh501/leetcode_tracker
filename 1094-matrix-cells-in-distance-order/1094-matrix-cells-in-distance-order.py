@@ -9,3 +9,6 @@ class Solution:
         answer.sort(key=lambda x: abs(x[0]- rCenter) + abs(x[1] - cCenter))
         
         return answer
+
+# Time - O(m * n)
+# Space - O(m + n)
