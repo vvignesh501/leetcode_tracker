@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vvignesh501/leetcode_tracker/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/vvignesh501/leetcode_tracker/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/vvignesh501/leetcode_tracker/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/vvignesh501/leetcode_tracker/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0268-missing-number) |
