@@ -9,6 +9,8 @@ class Solution:
         for i in range(1, len(nums)):
             # checking whether the current number (nums[i]) 
             # is consecutive with the previous number (nums[i - 1]).
+            # pass until we reach the current number not equal to 
+            # previous number, consequtively eg 3,5
             if nums[i] != nums[i - 1] + 1:
                 if start == nums[i - 1]:
                     res.append(str(start))
