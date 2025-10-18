@@ -7,6 +7,5 @@ class Solution:
                 heapq.heappop(min_heap)
         return min_heap[0]
 
-# Time Complexity: O(n log k)
-
+# Time Complexity: O(nlogk)
 # Space Complexity: O(k)
