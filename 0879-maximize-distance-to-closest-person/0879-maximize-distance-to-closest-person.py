@@ -10,7 +10,9 @@ class Solution:
 
                 res = max(res, dist)
                 prev = i
-                
+
+        # The above only checks if n=-1, but edge case n == 0 (at end)
+        # then seats[i] will be the end   
         if not seats[i]: #check last seat edge-case
             res = max(res, i - prev)
 
