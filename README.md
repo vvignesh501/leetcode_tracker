@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/vvignesh501/leetcode_tracker/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/vvignesh501/leetcode_tracker/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/vvignesh501/leetcode_tracker/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/vvignesh501/leetcode_tracker/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/vvignesh501/leetcode_tracker/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/vvignesh501/leetcode_tracker/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/vvignesh501/leetcode_tracker/tree/master/0908-middle-of-the-linked-list) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/vvignesh501/leetcode_tracker/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/vvignesh501/leetcode_tracker/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/vvignesh501/leetcode_tracker/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/vvignesh501/leetcode_tracker/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/vvignesh501/leetcode_tracker/tree/master/0217-contains-duplicate) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vvignesh501/leetcode_tracker/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/vvignesh501/leetcode_tracker/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vvignesh501/leetcode_tracker/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/vvignesh501/leetcode_tracker/tree/master/0817-design-hashmap) |
@@ -728,4 +731,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vvignesh501/leetcode_tracker/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
