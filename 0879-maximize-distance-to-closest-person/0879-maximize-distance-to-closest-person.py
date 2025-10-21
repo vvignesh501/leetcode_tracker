@@ -17,3 +17,6 @@ class Solution:
             res = max(res, i - prev)
 
         return res
+
+# Time - O(n)
+# Space - O(1)
