@@ -22,4 +22,7 @@ class Solution:
 
         return dfs(0, 0)
 
-        
+
+# Type	Complexity
+# Time	O(m × n) — each (i, j) pair computed once
+# Space	O(m × n) for memoization + recursion stack O(m + n)
