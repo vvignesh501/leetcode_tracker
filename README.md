@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/vvignesh501/leetcode_tracker/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vvignesh501/leetcode_tracker/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/vvignesh501/leetcode_tracker/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/vvignesh501/leetcode_tracker/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vvignesh501/leetcode_tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/0128-longest-consecutive-sequence) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vvignesh501/leetcode_tracker/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vvignesh501/leetcode_tracker/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/vvignesh501/leetcode_tracker/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vvignesh501/leetcode_tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vvignesh501/leetcode_tracker/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vvignesh501/leetcode_tracker/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vvignesh501/leetcode_tracker/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vvignesh501/leetcode_tracker/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0268-missing-number) |
