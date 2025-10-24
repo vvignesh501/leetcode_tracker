@@ -16,3 +16,6 @@ class Solution:
                 l += 1
         
         return maxTotal
+
+# Time complexity = O(n)
+# Space = O(n)
