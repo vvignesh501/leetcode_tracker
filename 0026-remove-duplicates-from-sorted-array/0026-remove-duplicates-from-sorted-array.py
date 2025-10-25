@@ -7,7 +7,7 @@ class Solution:
 
         # Remember eg - [1, 1, 2] start index 1 to len(nums)
         # When index = 1 and index 2 is not same, swap index[2] to index[1]
-        # But index[1] has to be incremented before swapping
+        # But index[1] has to be incremented before swapping, because i gets incremented only nums are different
         i = 0
         for j in range(1, len(nums)):
             if nums[i] != nums[j]:
