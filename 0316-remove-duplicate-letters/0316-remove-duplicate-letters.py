@@ -7,7 +7,10 @@ class Solution:
         for i, c in enumerate(s):
             if c in seen:
                 continue
-            while stack and c < stack[-1] and last_index[stack[-1]] > i:
+            
+            # last_index[stack[-1]] says whether the same character come again in s, or this
+            # is the end. Eg: bcabc -> when i is at b (i=0, 3) i=0 last_index[b] = 3
+            while stack and c < stack[-1] and i < last_index[stack[-1]]:
                 seen.remove(stack.pop())
             stack.append(c)
             seen.add(c)
