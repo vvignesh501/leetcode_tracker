@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vvignesh501/leetcode_tracker/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0042-trapping-rain-water) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vvignesh501/leetcode_tracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/vvignesh501/leetcode_tracker/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vvignesh501/leetcode_tracker/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vvignesh501/leetcode_tracker/tree/master/0049-group-anagrams) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vvignesh501/leetcode_tracker/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vvignesh501/leetcode_tracker/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0045-jump-game-ii) |
