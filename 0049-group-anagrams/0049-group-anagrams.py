@@ -6,13 +6,9 @@ class Solution:
         
         hashmap = collections.defaultdict(list)
         
-        for char in strs:
-            sorted_char = ''.join(sorted(char))
-            print(sorted_char)
-            if sorted_char in hashmap:
-                hashmap[sorted_char].append(char)
-            else:
-                hashmap[sorted_char] = [char]
+        for value in strs:
+            key = tuple(sorted(value))
+            hashmap[key].append(value)
         
         return list(hashmap.values())
 
