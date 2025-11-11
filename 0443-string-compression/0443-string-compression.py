@@ -10,9 +10,10 @@ class Solution:
                 i += 1
                 count += 1
 
+            # For use case - ["a", "b", "1", "2"] - if not for loop, the res is ["a", "b", "12"]
             if count > 1:
                 for c in str(count):
-                    res.append(c)
+                    res.append(str(c))
             i += 1
 
         # Modify the input array in place
