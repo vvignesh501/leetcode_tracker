@@ -6,3 +6,5 @@ class Solution:
                 return i
         return -1
         
+# Time - O(n·m)	Each starting position of n length checks up to m characters
+# Space	O(1)	Only uses constant extra memory
