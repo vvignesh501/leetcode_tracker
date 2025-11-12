@@ -4,8 +4,21 @@ class Solution:
         Do not return anything, modify s in-place instead.
         """
 
-        s[:] = s[::-1]
+        temp = ""
+        l = 0
+        r = len(s) - 1
+
+        while l < r:
+            s[l], s[r] = s[r], s[l]
+            l += 1
+            r -= 1
+            
         return s
 
 # Time - O(n)
 # Space - O(1)
+
+# Way 2
+# s[:] = s[::-1]
+# return s
+# Slicing doesn't change the original list, we need to return to same s[:] to update
