@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/vvignesh501/leetcode_tracker/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0778-reorganize-string) |
+| [0812-rotate-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/vvignesh501/leetcode_tracker/tree/master/1023-time-based-key-value-store) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/1250-longest-common-subsequence) |
@@ -752,4 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/vvignesh501/leetcode_tracker/tree/master/0146-lru-cache) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
