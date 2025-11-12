@@ -14,4 +14,6 @@ class Solution:
             r -= 1
             
         return s
-        
+
+# Time - O(n)
+# Space - O(1)
