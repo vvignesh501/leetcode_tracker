@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vvignesh501/leetcode_tracker/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vvignesh501/leetcode_tracker/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vvignesh501/leetcode_tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/vvignesh501/leetcode_tracker/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vvignesh501/leetcode_tracker/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/vvignesh501/leetcode_tracker/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/vvignesh501/leetcode_tracker/tree/master/0071-simplify-path) |
@@ -760,5 +762,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
