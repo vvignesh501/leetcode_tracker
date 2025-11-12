@@ -4,7 +4,6 @@ class Solution:
         Do not return anything, modify s in-place instead.
         """
 
-        temp = ""
         l = 0
         r = len(s) - 1
 
