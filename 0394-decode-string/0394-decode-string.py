@@ -28,5 +28,7 @@ class Solution:
                 curr_str += ch
         
         return curr_str
-                
+
+ # Time - O(n)
+ # Space - O(n) curr_num and curr_str stores both the string and digit from input       
         
