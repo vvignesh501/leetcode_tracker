@@ -3,7 +3,5 @@ class Solution:
         
         res = []
         split_word = s.split()
-        for word in split_word:
-            res.append(word[::-1])
         
-        return ' '.join(res)
+        return ' '.join(word[::-1] for word in split_word)
