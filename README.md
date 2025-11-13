@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vvignesh501/leetcode_tracker/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/vvignesh501/leetcode_tracker/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vvignesh501/leetcode_tracker/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vvignesh501/leetcode_tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/vvignesh501/leetcode_tracker/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/vvignesh501/leetcode_tracker/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/vvignesh501/leetcode_tracker/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/vvignesh501/leetcode_tracker/tree/master/0735-asteroid-collision) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/vvignesh501/leetcode_tracker/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/vvignesh501/leetcode_tracker/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/vvignesh501/leetcode_tracker/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0424-longest-repeating-character-replacement) |
