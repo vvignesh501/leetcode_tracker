@@ -4,4 +4,7 @@ class Solution:
         res = []
         split_word = s.split()
         
-        return ' '.join(word[::-1] for word in split_word)
+        return " ".join(word[::-1] for word in split_word)
+
+# Time - O(n)
+# Space - O(1)
