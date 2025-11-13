@@ -7,4 +7,4 @@ class Solution:
         return " ".join(word[::-1] for word in split_word)
 
 # Time - O(n)
-# Space - O(1)
+# Space - O(n) for reversing word[::-1]
