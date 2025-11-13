@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vvignesh501/leetcode_tracker/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/vvignesh501/leetcode_tracker/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/vvignesh501/leetcode_tracker/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/vvignesh501/leetcode_tracker/tree/master/0599-minimum-index-sum-of-two-lists) |
