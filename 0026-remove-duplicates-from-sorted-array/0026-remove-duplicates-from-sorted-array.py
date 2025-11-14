@@ -12,6 +12,7 @@ class Solution:
         for j in range(1, len(nums)):
             if nums[i] != nums[j]:
                 i += 1
+                # swap nums[j] = 2 to index 1 then, [1, 1, 2] becomes [1, 2]
                 nums[i] = nums[j]
             print(nums[i], nums[j])
         return i + 1
