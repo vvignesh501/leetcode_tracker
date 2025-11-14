@@ -12,4 +12,7 @@ class Solution:
                 nums[l] = nums[i]
                 l += 1
 
-        return l        
+        return l  
+
+# Time - O(n)
+# Space - O(1)      
