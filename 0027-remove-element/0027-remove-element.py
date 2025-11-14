@@ -4,6 +4,7 @@ class Solution:
         # Do not see the example - its very confusing
         # Just the remove the element and place the other element in place but replace
         # on the index, where the element was removed
+        # Worst part - Just replace, the len(nums) will not shrink since the values are removed.
 
         l = 0
         for i in range(len(nums)):
