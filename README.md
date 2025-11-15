@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vvignesh501/leetcode_tracker/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/vvignesh501/leetcode_tracker/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vvignesh501/leetcode_tracker/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vvignesh501/leetcode_tracker/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/vvignesh501/leetcode_tracker/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vvignesh501/leetcode_tracker/tree/master/0417-pacific-atlantic-water-flow) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vvignesh501/leetcode_tracker/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vvignesh501/leetcode_tracker/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vvignesh501/leetcode_tracker/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/vvignesh501/leetcode_tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0567-permutation-in-string) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/vvignesh501/leetcode_tracker/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/vvignesh501/leetcode_tracker/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vvignesh501/leetcode_tracker/tree/master/0380-insert-delete-getrandom-o1) |
 | [0553-optimal-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0553-optimal-division) |
 | [0909-stone-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/vvignesh501/leetcode_tracker/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/vvignesh501/leetcode_tracker/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/vvignesh501/leetcode_tracker/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vvignesh501/leetcode_tracker/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/vvignesh501/leetcode_tracker/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/vvignesh501/leetcode_tracker/tree/master/1023-time-based-key-value-store) |
@@ -796,4 +800,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vvignesh501/leetcode_tracker/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0812-rotate-string) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/vvignesh501/leetcode_tracker/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
