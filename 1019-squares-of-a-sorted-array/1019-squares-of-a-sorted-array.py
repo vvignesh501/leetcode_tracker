@@ -9,15 +9,14 @@ class Solution:
         while l <= r:
 
             if abs(nums[l]) < abs(nums[r]):
-                multiply = nums[r] * nums[r]
-                res[idx] = multiply
-                idx -= 1
+                res[idx] = nums[r] * nums[r]
                 r -= 1
             else:
-                multiply = nums[l] * nums[l]
-                res[idx] = multiply
-                idx -= 1
+                res[idx] = nums[l] * nums[l]
                 l += 1
+            idx -= 1
         
         return res
-        
+
+# Time - O(n)
+# Space - O(n)
