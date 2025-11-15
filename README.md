@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/vvignesh501/leetcode_tracker/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/vvignesh501/leetcode_tracker/tree/master/0943-sum-of-subarray-minimums) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/vvignesh501/leetcode_tracker/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/vvignesh501/leetcode_tracker/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vvignesh501/leetcode_tracker/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/vvignesh501/leetcode_tracker/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/vvignesh501/leetcode_tracker/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/vvignesh501/leetcode_tracker/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/1019-squares-of-a-sorted-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/vvignesh501/leetcode_tracker/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Binary Search
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/vvignesh501/leetcode_tracker/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/vvignesh501/leetcode_tracker/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/vvignesh501/leetcode_tracker/tree/master/1014-k-closest-points-to-origin) |
+| [1019-squares-of-a-sorted-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/1019-squares-of-a-sorted-array) |
 | [1094-matrix-cells-in-distance-order](https://github.com/vvignesh501/leetcode_tracker/tree/master/1094-matrix-cells-in-distance-order) |
 | [1962-single-threaded-cpu](https://github.com/vvignesh501/leetcode_tracker/tree/master/1962-single-threaded-cpu) |
 ## Heap (Priority Queue)
