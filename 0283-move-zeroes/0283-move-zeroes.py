@@ -8,3 +8,6 @@ class Solution:
                 left += 1
         
         return nums
+
+# Time - O(n)
+# Space - O(1)
