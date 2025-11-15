@@ -23,9 +23,10 @@ class Solution:
 # Time - O(n)
 # Space - O(1)
 
-        # Solution 2
+        # Solution 2 
         k = k % len(nums)
         if k != 0:
             nums[:k], nums[k:] = nums[-k:], nums[:-k]
-
+# Time - O(n)
+# Space - O(n) saves k values in memory while swapping
 
