@@ -32,7 +32,9 @@ class RandomizedSet:
         # Ramdom number is chosen only in a list, not in a hashset or hashmap.
         # Use list to get the random value and then remove the value in O(1) time
         return random.choice(self.randomList)
-        
+
+# Time - O(1) as expected
+# Space - O(n) saves the input elements as a list
 
 
 # Your RandomizedSet object will be instantiated and called as such:
