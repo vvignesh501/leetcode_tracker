@@ -1,5 +1,7 @@
 from collections import OrderedDict
 
+# LRU cache - get the least recent or to put the most recent key to the end of the dict
+
 class LRUCache:
     def __init__(self, capacity: int):
         self.cache = OrderedDict()
