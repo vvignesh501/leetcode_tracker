@@ -24,5 +24,4 @@ class LRUCache:
             self.cache.popitem(last=False)
 
 # Time - get: O(n) (because of remove on order list)
-
 # Space - put: O(n) (same reason)
