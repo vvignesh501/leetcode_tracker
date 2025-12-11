@@ -31,3 +31,6 @@ class Solution:
                     k -= 1
             
         return result
+
+# Time = O(n**2)
+# Space = O(1)
