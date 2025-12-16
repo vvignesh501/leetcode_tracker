@@ -2,12 +2,14 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         
         d = {}
-        for i, num in enumerate(nums):
-            diff = target - num
-            if diff in d:
-                return [d[diff], i]
+        
+        for i, n in enumerate(nums):
+            diff = target - n
+            if n in d:
+                return [d[n], i]
             else:
-                d[num] = i
+                d[diff] = i
+            
 
 
 # Time complexity = O(n)
