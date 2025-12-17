@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vvignesh501/leetcode_tracker/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/vvignesh501/leetcode_tracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vvignesh501/leetcode_tracker/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/vvignesh501/leetcode_tracker/tree/master/0746-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/vvignesh501/leetcode_tracker/tree/master/0794-swim-in-rising-water) |
 | [0817-design-hashmap](https://github.com/vvignesh501/leetcode_tracker/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/vvignesh501/leetcode_tracker/tree/master/0833-bus-routes) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0553-optimal-division) |
 | [0647-palindromic-substrings](https://github.com/vvignesh501/leetcode_tracker/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/vvignesh501/leetcode_tracker/tree/master/0746-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/vvignesh501/leetcode_tracker/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0909-stone-game](https://github.com/vvignesh501/leetcode_tracker/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/vvignesh501/leetcode_tracker/tree/master/0943-sum-of-subarray-minimums) |
