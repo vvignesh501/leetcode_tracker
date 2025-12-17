@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/vvignesh501/leetcode_tracker/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/vvignesh501/leetcode_tracker/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/vvignesh501/leetcode_tracker/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vvignesh501/leetcode_tracker/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/vvignesh501/leetcode_tracker/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vvignesh501/leetcode_tracker/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/vvignesh501/leetcode_tracker/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/vvignesh501/leetcode_tracker/tree/master/0687-longest-univalue-path) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/vvignesh501/leetcode_tracker/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/vvignesh501/leetcode_tracker/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0623-add-one-row-to-tree) |
 | [0687-longest-univalue-path](https://github.com/vvignesh501/leetcode_tracker/tree/master/0687-longest-univalue-path) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/vvignesh501/leetcode_tracker/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/vvignesh501/leetcode_tracker/tree/master/0187-repeated-dna-sequences) |
+| [0572-subtree-of-another-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0572-subtree-of-another-tree) |
 | [0817-design-hashmap](https://github.com/vvignesh501/leetcode_tracker/tree/master/0817-design-hashmap) |
 ## Queue
 |  |
@@ -802,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vvignesh501/leetcode_tracker/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/vvignesh501/leetcode_tracker/tree/master/0812-rotate-string) |
 ## Randomized
 |  |
