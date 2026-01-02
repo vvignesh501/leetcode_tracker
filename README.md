@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vvignesh501/leetcode_tracker/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/vvignesh501/leetcode_tracker/tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0313-super-ugly-number) |
 | [0343-integer-break](https://github.com/vvignesh501/leetcode_tracker/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/vvignesh501/leetcode_tracker/tree/master/0371-sum-of-two-integers) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vvignesh501/leetcode_tracker/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/vvignesh501/leetcode_tracker/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/vvignesh501/leetcode_tracker/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/vvignesh501/leetcode_tracker/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/vvignesh501/leetcode_tracker/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/vvignesh501/leetcode_tracker/tree/master/0313-super-ugly-number) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/vvignesh501/leetcode_tracker/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vvignesh501/leetcode_tracker/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/vvignesh501/leetcode_tracker/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/vvignesh501/leetcode_tracker/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/vvignesh501/leetcode_tracker/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/vvignesh501/leetcode_tracker/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/vvignesh501/leetcode_tracker/tree/master/0404-sum-of-left-leaves) |
