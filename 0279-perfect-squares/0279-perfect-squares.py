@@ -15,6 +15,7 @@ class Solution:
                 dp[target] = min(dp[target], 1 + dp[target-square])
             
         return dp[n]
-    
-# Time - O(n)
+
+# NeetcodeIO  
+# Time - O(n. sqrt(n))
 # Space - O(n)
