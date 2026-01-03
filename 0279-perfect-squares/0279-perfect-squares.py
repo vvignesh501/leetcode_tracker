@@ -4,12 +4,15 @@ class Solution:
         dp = [float('inf')] * (n + 1)
         dp[0] = 0
 
-        for i in range(1, n + 1):
-            j = 1
+        for target in range(1, n + 1):
+            for s in range(1, target + 1):
+                square = s * s
 
-            while j * j <= i:
-                dp[i] = min(dp[i], 1 + dp[i - j * j])
-                j += 1
+                # Base case
+                if target - square < 0:
+                    break
+
+                dp[target] = min(dp[target], 1 + dp[target-square])
             
         return dp[n]
     
